@@ -1,0 +1,1 @@
+rename table student to stud_info;
