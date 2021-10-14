@@ -1,0 +1,3 @@
+Exp 3 ...
+Basic stuff of MySQL
+All commands based on Data defination Language (DDL)
